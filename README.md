@@ -1,6 +1,5 @@
 # GIFperfectcomposition
 
-Ping pong 快 玩 高 频 玩法 pk
 GIF perfect composition
 
 A GIF production tool software, you can choose from the album  need to produce content, convenient, fast.
